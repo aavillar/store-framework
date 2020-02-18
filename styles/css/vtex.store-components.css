@@ -2,7 +2,7 @@
     font-family: serif;
     font-size: 2.25rem;
     font-weight: normal;
-    color: gray;
+    color: black;
     border: 2px solid black;
     padding: 24px;
 }
@@ -28,11 +28,9 @@
 }
 
 .infoCardContainer--vintage {
-    color: black;
     background-color: #EDCFD1
   }
 
 .infoCardContainer--metal {
-    color: black;
     background-color: #e1e1e1
   }
