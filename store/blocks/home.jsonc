@@ -7,7 +7,7 @@
   },
 
   "responsive-layout.desktop#desktop": {
-    "children": ["image#desktop"]
+    "children": ["image#desktop", "rich-text#desktop"]
   },
   "image#desktop": {
     "props": {
@@ -20,7 +20,7 @@
     }
   },
   "responsive-layout.mobile#mobile": {
-    "children": ["image#mobile"]
+    "children": ["image#mobile", "rich-text#mobile"]
   },
   "image#mobile": {
     "props": {
