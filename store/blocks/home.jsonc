@@ -1,15 +1,14 @@
 {
   "store.home": {
     "blocks": [
-      "flex-layout.row",
-      "flex-layout.col"
+      "flex-layout.row"
     ]
   },
  
   "flex-layout.row":{
     "children": [
       "info-card#rethink",
-      "rich-text#delete"
+      "flex-layout.col"
     ]
   },
  "info-card#rethink": {
@@ -19,11 +18,6 @@
       "headline": "Time to rethink your kitchen",
       "callToActionText": "Discover",
       "textPosition": "center"
-    }
-  },
-  "rich-text#deletar": {
-    "props": {
-      "text": "I'll be deleted soon"
     }
   },
   "flex-layout.col":{
