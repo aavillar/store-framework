@@ -16,7 +16,7 @@
         "url": "/small-appliances/coffee-makers"
       } ,
       "alt": "Coffee Makers Collection",
-      "max-width": 100
+      "maxWidth": 100
     }
   },
   "rich-text#desktop": {
@@ -37,10 +37,9 @@
         "url": "/small-appliances/coffee-makers"
       } ,
       "alt": "Coffee Makers Collection",
-      "max-width": 100
+      "maxWidth": 100
     }
   },
-
   "rich-text#mobile": {
     "props": {
       "text": "### Your Coffee, Your Way \n #### New Coffee Makers Collection",
