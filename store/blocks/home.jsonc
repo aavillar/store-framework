@@ -19,9 +19,10 @@
       "link": {
         "url": "/small-appliances/coffee-makers"
       } ,
-      "alt": "Coffee Makers Collection",
-      "maxWidth": 100
-    }
+      "alt": "Coffee Makers Collection"
+    },
+    "maxWidth": 100
+
   },
   "image#mobile": {
     "props": {
@@ -29,9 +30,9 @@
       "link": {
         "url": "/small-appliances/coffee-makers"
       } ,
-      "alt": "Coffee Makers Collection",
-      "maxWidth": 100
-    }
+      "alt": "Coffee Makers Collection"
+    },
+    "maxWidth": 100
   },
 
   "rich-text#desktop": {
