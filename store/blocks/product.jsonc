@@ -48,6 +48,7 @@
   "product-name": {
     "children": [ 
       "product-price",
+      "flex-layout.row",
       "flex-layout.row#qty-sku"
     ]
   },
