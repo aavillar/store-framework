@@ -64,7 +64,7 @@
 
   "flex-layout.row": {
     "children": [
-      "flex-layout.row#qty-sku",
+      "flex-layout.row#qty-sku"
     ]
   },
   "flex-layout.row#qty-sku": {
