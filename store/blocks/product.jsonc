@@ -31,10 +31,11 @@
       "product-name",
       "product-price",
       "buy-button"
-    ]
-    ,
-    "verticalAlign": "middle",
-    "preventVerticalStretch": true
+    ],
+     "props": {
+        "verticalAlign": "middle",
+        "preventVerticalStretch": true
+    }
   },
   "product-name": {
     "props": {
