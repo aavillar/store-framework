@@ -31,8 +31,9 @@
       "product-name",
       "product-price",
       "buy-button"
-    ],
-    "verticalAlign": "center",
+    ]
+    ,
+    "verticalAlign": "middle",
     "preventVerticalStretch": true
   },
   "product-name": {
