@@ -35,7 +35,7 @@
     ],
      "props": {
         "verticalAlign": "middle",
-        "preventVerticalStretch": true,
+        "preventVerticalStretch": true
       }
   },
   "buy-button": {
@@ -72,14 +72,14 @@
     "children": [
       "shipping-simulator"
     ],
+    "product-quantity": {
+      "props": {
+        "warningQuantityThreshold": 9999999
+      }
+    },
     "props": {
       "showSavings": true,
       "showListPrice": true
-    }
-  },
-  "product-quantity": {
-    "props": {
-      "warningQuantityThreshold": 9999999
     }
   }
 
