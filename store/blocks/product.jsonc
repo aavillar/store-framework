@@ -36,7 +36,6 @@
      "props": {
         "verticalAlign": "middle",
         "preventVerticalStretch": true,
-        "shipping-simulator": true
       }
   },
   "buy-button": {
@@ -55,12 +54,6 @@
     "showSKU": true,
     "showBrandName": true
   },
-  "product-price": {
-    "props": {
-      "showSavings": true,
-      "showListPrice": true
-    }
-  },
 //...
   "flex-layout.row": {
     "children": [
@@ -75,6 +68,15 @@
     ]
   },
   //...
+  "product-price": {
+    "children": [
+      "shipping-simulator"
+    ],
+    "props": {
+      "showSavings": true,
+      "showListPrice": true
+    }
+  },
   "product-quantity": {
     "props": {
       "warningQuantityThreshold": 9999999
