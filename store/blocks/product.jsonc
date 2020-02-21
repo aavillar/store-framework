@@ -44,12 +44,6 @@
       "showTooltipOnSkuNotSelected": false
     }
   },
-
-  "product-name": {
-    "children": [ 
-      "flex-layout.row"
-    ]
-  },
   "props": {
     "showSKU": true,
     "showBrandName": true
@@ -58,6 +52,7 @@
   "flex-layout.row": {
     "children": [
       "product-price",
+      "flex-layout.row",
       "flex-layout.row#qty-sku"
     ]
   },
