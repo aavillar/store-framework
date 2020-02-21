@@ -1,6 +1,7 @@
 {
   "store.home": {
     "blocks": [
+      "product-images", "product-price", "product-name", "buy-button",
       "responsive-layout.desktop#desktop",
       "responsive-layout.mobile#mobile"
     ]
