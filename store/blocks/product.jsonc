@@ -55,8 +55,12 @@
     "flex-layout.row#product"
   ]
 },
-
 "flex-layout.row#product": {
+    "children": [
+      "flex-layout.row"
+    ]
+  },
+  "flex-layout.row": {
     "children": [
       "flex-layout.row#qty-sku"
     ]
