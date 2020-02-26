@@ -31,7 +31,6 @@
     "children": [
       "product-name",
       "product-identifier.product",
-      "flex-layout.row",
       "flex-layout.row#qty-sku",
       "product-price",
       "buy-button"
