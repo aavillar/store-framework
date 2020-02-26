@@ -32,7 +32,10 @@
       "product-name",
       "product-identifier.product",
       "buy-button",
-      "flex-layout.row"
+      "flex-layout.row",
+      "product-price",
+      "flex-layout.row#qty-sku",
+      "shipping-simulator"
 
         ],
      "props": {
@@ -53,9 +56,6 @@
 //...
   "flex-layout.row": {
     "children": [
-      "product-price",
-      "flex-layout.row#qty-sku",
-      "shipping-simulator"
     ]
   },
   "flex-layout.row#qty-sku": {
