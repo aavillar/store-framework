@@ -31,7 +31,6 @@
     "children": [
       "product-name",
       "product-identifier.product",
-      "flex-layout.row#product",
       "product-price",
       "buy-button"
     ],
@@ -51,7 +50,13 @@
     "showBrandName": true
   },
 //...
-  "flex-layout.row#product": {
+"product-identifier.product": {
+  "children": [
+    "flex-layout.row#product"
+  ]
+},
+
+"flex-layout.row#product": {
     "children": [
       "flex-layout.row#qty-sku"
     ]
