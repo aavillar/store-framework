@@ -11,7 +11,8 @@
     },
     "children": [
       "flex-layout.col#left",
-      "flex-layout.col#right"
+      "flex-layout.col#right",
+      "flex-layout.row"
     ]
   },
 
@@ -32,7 +33,7 @@
       "flex-layout.row#qty-sku"
     ]
   },
-  
+
   "flex-layout.row#qty-sku": {
     "children": [
       "sku-selector",
@@ -55,7 +56,6 @@
     "children": [
       "product-name",
       "product-identifier.product",
-      "flex-layout.row",
       "buy-button"
     ],
     "props": {
