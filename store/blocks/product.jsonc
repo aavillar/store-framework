@@ -55,8 +55,7 @@
   "flex-layout.col#right": {
     "children": [
       "product-name",
-      "product-identifier.product",
-      "buy-button"
+      "product-identifier.product"
     ],
     "props": {
       "verticalAlign": "middle",
@@ -77,12 +76,12 @@
       "showListPrice": true
     }
   },
-  "buy-button": {
-    "props": {
-      "isOneClickBuy": true,
-      "showTooltipOnSkuNotSelected": false
-    }
-  }
+  // "buy-button": {
+  //   "props": {
+  //     "isOneClickBuy": true,
+  //     "showTooltipOnSkuNotSelected": false
+  //   }
+  // }
 
 }
 
