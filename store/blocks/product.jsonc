@@ -49,7 +49,6 @@
     "children": [
       "product-name",
       "product-identifier.product",
-      "flex-layout.row",
       "product-price",
       "buy-button"
     ],
