@@ -11,8 +11,7 @@
     },
     "children": [
       "flex-layout.col#left",
-      "flex-layout.col#right",
-      "flex-layout.row"
+      "flex-layout.col#right"
     ]
   },
 
@@ -55,7 +54,8 @@
   "flex-layout.col#right": {
     "children": [
       "product-name",
-      "product-identifier.product"
+      "product-identifier.product",
+      "flex-layout.row"
     ],
     "props": {
       "verticalAlign": "middle",
