@@ -75,7 +75,7 @@
       "showSavings": true,
       "showListPrice": true
     }
-  },
+  }
   // "buy-button": {
   //   "props": {
   //     "isOneClickBuy": true,
