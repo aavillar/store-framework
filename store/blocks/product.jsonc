@@ -47,9 +47,9 @@
   "flex-layout.col#right": {
     "children": [
       "product-name",
-      "flex-layout.row#qty-sku",
       "product-identifier.product",
       "product-price",
+      "flex-layout.row#qty-sku",
       "buy-button"
     ],
     "props": {
