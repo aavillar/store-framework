@@ -61,10 +61,15 @@
     "showSKU": true,
     "showBrandName": true
   },
+  
+  "product-identifier.product": {
+    "children":[
+      "flex-layout.row#qty-sku"
+    ]
+  },
 
   "product-price": {
     "children": [
-      "flex-layout.row#qty-sku"
     ],
     "props": {
       "showSavings": true,
