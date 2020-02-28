@@ -48,8 +48,7 @@
     "children": [
       "product-name",
       "product-identifier.product",
-      "product-price",
-      "flex-layout.row#qty-sku"
+      "product-price"
 
     ],
     "props": {
@@ -65,6 +64,7 @@
 
   "product-price": {
     "children": [
+      "flex-layout.row#qty-sku"
     ],
     "props": {
       "showSavings": true,
