@@ -48,7 +48,8 @@
     "children": [
       "product-name",
       "product-identifier.product",
-      "product-price"
+      "product-price",
+      "flex-layout.row"      
 
     ],
     "props": {
@@ -61,8 +62,8 @@
     "showSKU": true,
     "showBrandName": true
   },
-  
-  "product-identifier.product": {
+
+  "flex-layout.row": {
     "children":[
       "flex-layout.row#qty-sku"
     ]
