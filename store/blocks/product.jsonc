@@ -48,8 +48,7 @@
     "children": [
       "product-name",
       "product-identifier.product",
-      "product-price",
-      "flex-layout.row"      
+      "product-price"
 
     ],
     "props": {
@@ -71,6 +70,7 @@
 
   "product-price": {
     "children": [
+      "flex-layout.row"      
     ],
     "props": {
       "showSavings": true,
